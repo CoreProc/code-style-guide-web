@@ -51,7 +51,7 @@ you deem convenient to you. The default workflow is to reformat your code before
 
 Clone or [download](https://github.com/CoreProc/code-style-guide-web/archive/master.zip) this repository.
 
-Open up your PHPStorm, go to "File" -> "Import Settings". Navigate to the `code_style.jar` file and choose that. Check 
+Open up your PHPStorm, go to "File" -> "Import Settings". Navigate to the `code-style.jar` file and choose that. Check 
 all the boxes found in the next screen and hit "OK".
 
 After importing, make sure you are using this profile by going to "Preferences" -> "Editor" -> and click on "Code Style".
